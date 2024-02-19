@@ -1,10 +1,10 @@
-#Social Media Data Integration Project
+# Social Media Data Integration Project
 
-#Project Overview
+## Project Overview
 
 This project consists of Python scripts designed to fetch and store data from various social media and movie-related APIs into a MongoDB database. The APIs utilized in this project include YouTube, Reddit, and The Movie Database (TMDb). The data fetched includes YouTube movie trailers statistics, Reddit posts and comments from specific subreddits, basic movie details from TMDb, and movie credits including cast and crew information.
 
-Prerequisites
+## Prerequisites
 
 Python 3.x
 MongoDB account and a cluster
