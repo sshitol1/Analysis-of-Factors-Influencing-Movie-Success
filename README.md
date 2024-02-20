@@ -1,4 +1,4 @@
-# Social Media Data Integration Project
+# Analysis-of-Factors-Influencing-Movie-Success
 
 ## Project Overview
 
